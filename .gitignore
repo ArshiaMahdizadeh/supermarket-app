@@ -1,0 +1,28 @@
+# Node.js (Frontend)
+node_modules/
+npm-debug.log
+.next/
+.env.local
+.env.development
+.env.production
+
+# Python (Backend)
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+*.venv/
+venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Build Artifacts
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
